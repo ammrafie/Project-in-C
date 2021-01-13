@@ -1,9 +1,9 @@
 Introduction
 ======
 
-IP GeoLocation Application developed in C for first year academic project.
+This is a IP GeoLocation Application developed in C programming language.
 
-The goal of the application is to show location of any internet connected computer running this code.
+The goal of the application is to show location of any internet connected computer running this code without accessing GPS hardware.
 It returns the lattitude and longitude of the system's current location based on the system's external IP address. It also returns the accuracy of the retrieved location as a radius measured in Kilometers.
 
 To talk with the internet curl library is used. Curl is a cmd line utility. Curl helps fetch and put information to the internet. The same people who developed Curl, have provided the Libcurl library for the C language.
