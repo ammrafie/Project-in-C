@@ -1,7 +1,7 @@
 Introduction
 ======
 
-This is a IP GeoLocation Application developed in C programming language.
+This is an IP GeoLocation Application developed in C programming language.
 
 The goal of the application is to show location of any internet connected computer running this code without accessing GPS hardware.
 It returns the lattitude and longitude of the system's current location based on the system's external IP address. It also returns the accuracy of the retrieved location as a radius measured in Kilometers.
