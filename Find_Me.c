@@ -1,6 +1,5 @@
 /*
- * IP GeoLocation Application, C language, 2020
- * Abu Muid Md. Raafee
+ * IP GeoLocation Application, C language, 2018
  * 
  * GOAL: Show location of any internet connected computer running their code.
  * 
