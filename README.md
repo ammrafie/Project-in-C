@@ -40,7 +40,7 @@ sudo apt install clang
 
 ### Step 3: TEST INSTALLATION
 
-- Save the following code as 'test.c'
+- Save the code given below as 'test.c'
 ```c
 #include <stdio.h>
 #include <curl/curl.h>
@@ -70,7 +70,7 @@ cd "driveName/desiredPath"
 > '-lcurl' is for linkining curl library
 
 > '-lm' flag is required if using math functions & including 'math.h'
-- Atlast! We execute the program with the following command:
+- Atlast! We execute the program with the command given below:
 ```bash
 ./a.out
 ```
